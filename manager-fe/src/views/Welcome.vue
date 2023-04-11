@@ -1,8 +1,8 @@
 <template>
   <div class="welcome">
     <div class="content">
-      <div class="sub-title">欢迎体验</div>
-      <div class="title">通用后台管理系统</div>
+      <div class="sub-title">欢迎使用</div>
+      <div class="title">后台管理系统</div>
       <div class="desc">
         Vue3.0+ElementPlus打造通用后台管理系统
       </div>
